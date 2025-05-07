@@ -1,6 +1,6 @@
-# 中国地图数据集合 | China Map Data Collection
+# 地图数据集合 | China Map Data Collection
 
-这个仓库包含了中国地图相关的 GeoJSON 数据，包括：
+这个仓库包含了地图相关的 GeoJSON 数据，包括：
 This repository contains GeoJSON data related to China maps, including:
 - 省级行政区划数据 | Provincial administrative divisions
 - 城市级行政区划数据 | City-level administrative divisions
@@ -11,6 +11,7 @@ This repository contains GeoJSON data related to China maps, including:
 - `provinces.cn.geojson`: 中国省级行政区划数据 | China provincial administrative divisions
 - `cities.cn/`: 中国城市级行政区划数据 | China city-level administrative divisions
 - `countries.geojson`: 国家边界数据 | National boundary data
+
 
 ## 数据格式 | Data Format
 
